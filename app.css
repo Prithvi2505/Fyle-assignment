@@ -1,0 +1,37 @@
+#HeadingGroup {
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+#homei {
+    margin-top: 10px;
+}
+
+#footcon {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+    padding-left: 200px;
+}
+
+#footicon {
+    background-color: white;
+    margin: 25px;
+    border-radius: 5px;
+}
+
+#footicon:hover {
+    transform: scale(1.1);
+    z-index: 2;
+}
+
+#footh {
+    margin-top: 5px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+footer {
+    background-color: #f6f6f6;
+}

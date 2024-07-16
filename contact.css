@@ -1,0 +1,35 @@
+body {
+    background-color: #E4E4E4;
+}
+
+form {
+    width: 35%;
+    background-color: white;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 150px;
+}
+
+#con-form {
+    margin-top: 50px;
+}
+
+.btn-danger {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.form-control {
+    border: none;
+    border-bottom: 1px solid;
+    border-bottom-color: #E2E2E8;
+    border-radius: 4px 4px 0 0;
+}
+
+.form-label {
+    color: #B6B7C6;
+}
+
+.form-check-label {
+    color: #B6B7C6;
+}
